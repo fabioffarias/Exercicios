@@ -1,3 +1,11 @@
 {
-	"folders": []
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "EstudosPython",
+			"path": "../../../Documentos/temp/EstudosPython"
+		}
+	]
 }
